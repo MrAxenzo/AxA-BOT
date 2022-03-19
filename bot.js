@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🤖AXA 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./axalogo.jpg"), MessageType.image, { caption: `ᴀxᴀ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ${conn.user.name}!\n\n*🆘 General Help For You! 🆘*\n\n🔹 *.alive:* Check if the bot is running.\n\n🔹 *.list:* Shows the complete list of commands.\n\n🔹 *.restart:* It Restarts the bot.\n\n🔹 *.shutdown:* \n And one more this command for worker off \n worker on have no command \n you go heroku and on worker🚀 `});    
                 }
             }
             else {
