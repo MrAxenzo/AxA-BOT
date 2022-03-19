@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "MrAxenzo",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/c/PrinceRudh*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -187,11 +187,11 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song srivalli pushpa```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*AxA SONG SEARCHING 🔍 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*🌝AxA Unloading Use 🎧*\n",
+            "UPLOADING_SONG": "\n*🎬AxA Unloading Use📲*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/bjaerjAJAyI```",
             "DOWNLOADING_VIDEO": "```AxA Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```AxA Uploading...```",
+            "UPLOADING_VIDEO": "```AxA Uploading 📲...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "AxA It converts your replied photo or video to sticker.",
             "NEED_REPLY": "* Reply to a photo or video!*",
-            "DOWNLOADING": "```OK Wait Ippam Seriyakithra🤠```"
+            "DOWNLOADING": "```ᴄʀᴇᴀᴛɪɴɢ sᴛɪᴄᴋᴇʀ```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
